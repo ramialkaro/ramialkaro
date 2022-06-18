@@ -12,3 +12,7 @@ Along side that also I work as freelancer for various web application and contiu
 Examples of web application which are open source. 
 
 * See ☁️  weather information using city name and in respone you will get (min/max/current temp, pressure, clouds, wind, humidity, date, weather status) [weather.ramialkaro.fi](https://weather.ramialkaro.fi/)
+
+## Github status
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ramialkaro&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramialkaro&langs_count=5&hide=css,scss,html&hide_border=true" algin="center" />

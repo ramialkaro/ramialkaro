@@ -1,6 +1,6 @@
 ## Welcone to my github account.
 
-I do some web development and work as full-time frontend developer for [LamaiaOy](https://lamia.fi/).
+I do some web development and work as full-time frontend developer for [Lamia Oy](https://lamia.fi/).
 
 Along side that also I work as freelancer for various web application and contiuous development of existing project. Such as [Laskutan](https://www.laskutan.com/) is belong to [SRG Oy](https://www.srgyhtiot.fi/) which is Light entrepreneurship invoice platform. Another example is [Corrsy](https://corrsy.com) which is eduction platform focus on middle east student. 
 

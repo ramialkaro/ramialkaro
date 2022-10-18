@@ -12,7 +12,7 @@ Along side that also I work as freelancer for various web application and contiu
 Examples of web application:
 
 * See ☁️  weather information using city name and in respone you will get (min/max/current temp, pressure, clouds, wind, humidity, date, weather status) [weather.ramialkaro.fi](https://weather.ramialkaro.fi)
-* Shared arctiles. [https://posts.ramialkaro.fi] (https://posts.ramialkaro.fi)
+* Shared arctiles. [https://posts.ramialkaro.fi](https://posts.ramialkaro.fi)
 
 ## Github status
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ramialkaro&show_icons=true&hide_border=true" />

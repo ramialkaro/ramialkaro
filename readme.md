@@ -9,9 +9,10 @@ Along side that also I work as freelancer for various web application and contiu
 <img src="portfolio.png" alt="ramialkaro.fi" style="width:100%; height:400px;"/>
 <br/>
 <br/>
-Examples of web application which are open source. 
+Examples of web application:
 
-* See ☁️  weather information using city name and in respone you will get (min/max/current temp, pressure, clouds, wind, humidity, date, weather status) [weather.ramialkaro.fi](https://weather.ramialkaro.fi/)
+* See ☁️  weather information using city name and in respone you will get (min/max/current temp, pressure, clouds, wind, humidity, date, weather status) [weather.ramialkaro.fi](https://weather.ramialkaro.fi)
+* Shared arctiles. [https://posts.ramialkaro.fi] (https://posts.ramialkaro.fi)
 
 ## Github status
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ramialkaro&show_icons=true&hide_border=true" />

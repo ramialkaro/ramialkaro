@@ -4,7 +4,13 @@ I do some web development and work as full-time frontend developer for [Lamia Oy
 
 Along side that also I work as freelancer for various web application and contiuous development of existing project. Such as [Laskutan](https://www.laskutan.com/) is belong to [SRG Oy](https://www.srgyhtiot.fi/) which is Light entrepreneurship invoice platform. Another example is [Corrsy](https://corrsy.com) which is eduction platform focus on middle east student. 
 
-[Rami Al-karo Portfolio](https://ramialkaro.fi)
+### Social media
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://fi.linkedin.com/in/rami-alkaro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rami.alkaro@gmail.com)
+
+
+### [Rami Al-karo Portfolio](https://ramialkaro.fi)
+
 <br/>
 <img src="portfolio.png" alt="ramialkaro.fi" style="width:100%; height:400px;"/>
 <br/>

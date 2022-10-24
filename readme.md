@@ -7,15 +7,10 @@ Along side that also I work as freelancer for various web application and contiu
 ### Social media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://fi.linkedin.com/in/rami-alkaro)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rami.alkaro@gmail.com)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ramialkaro.fi)
 
 
-### [Rami Al-karo Portfolio](https://ramialkaro.fi)
-
-<br/>
-<img src="portfolio.png" alt="ramialkaro.fi" style="width:100%; height:400px;"/>
-<br/>
-<br/>
-Examples of web application:
+### Examples of web application:
 
 * See ☁️  weather information using city name and in respone you will get (min/max/current temp, pressure, clouds, wind, humidity, date, weather status) [weather.ramialkaro.fi](https://weather.ramialkaro.fi)
 * Shared arctiles. [posts.ramialkaro.fi](https://posts.ramialkaro.fi)

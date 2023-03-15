@@ -15,3 +15,4 @@ Along side that also I work as freelancer for various web application and contiu
 * See ☁️  weather information using city name and in respone you will get (min/max/current temp, pressure, clouds, wind, humidity, date, weather status) [weather.ramialkaro.fi](https://weather.ramialkaro.fi)
 * Shared arctiles. [posts.ramialkaro.fi](https://posts.ramialkaro.fi)
 
+![](https://komarev.com/ghpvc/?username=ramialkaro)

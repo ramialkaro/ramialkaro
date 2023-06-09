@@ -12,10 +12,9 @@ Along side that also I work as freelancer for various web application and contiu
 
 ### Examples of web application:
 
-* See ☁️  weather information using city name and in respone you will get (min/max/current temp, pressure, clouds, wind, humidity, date, weather status) [weather.ramialkaro.fi](https://weather.ramialkaro.fi)
-* Shared arctiles. [posts.ramialkaro.fi](https://posts.ramialkaro.fi)
+* Weather Single Page Application [posts.ramialkaro.fi](https://posts.ramialkaro.fi)
 * Periodic Table. [https://elementarium.ramialkaro.fi](https://elementarium.ramialkaro.fi)
 * Apple Clone Calculator. [https://apple-calculator-clone.ramialkaro.fi](https://apple-calculator-clone.ramialkaro.fi)
-* Weather App. [https://github.com/ramialkaro/aero-cast](https://github.com/ramialkaro/aero-cast)
+* Weather Mobile App. [https://github.com/ramialkaro/aero-cast](https://github.com/ramialkaro/aero-cast)
 
 ![](https://komarev.com/ghpvc/?username=ramialkaro)

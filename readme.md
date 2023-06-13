@@ -13,7 +13,7 @@ Along side that also I work as freelancer for various web application and contiu
 
 ### Examples of web application:
 
-* Weather Single Page Application [posts.ramialkaro.fi](https://posts.ramialkaro.fi)
+* Posts Application [posts.ramialkaro.fi](https://posts.ramialkaro.fi)
 * Periodic Table. [https://elementarium.ramialkaro.fi](https://elementarium.ramialkaro.fi)
 * Apple Clone Calculator. [https://apple-calculator-clone.ramialkaro.fi](https://apple-calculator-clone.ramialkaro.fi)
 * Weather Mobile App. [https://github.com/ramialkaro/aero-cast](https://github.com/ramialkaro/aero-cast)

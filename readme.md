@@ -17,5 +17,6 @@ Along side that also I work as freelancer for various web application and contiu
 * Periodic Table. [https://elementarium.ramialkaro.fi](https://elementarium.ramialkaro.fi)
 * Apple Clone Calculator. [https://apple-calculator-clone.ramialkaro.fi](https://apple-calculator-clone.ramialkaro.fi)
 * Weather Mobile App. [https://github.com/ramialkaro/aero-cast](https://github.com/ramialkaro/aero-cast)
+* News Mobile App. [https://github.com/ramialkaro/trend-wave](https://github.com/ramialkaro/trend-wave)
 
 ![](https://komarev.com/ghpvc/?username=ramialkaro)

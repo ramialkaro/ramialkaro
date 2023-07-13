@@ -11,7 +11,7 @@ Along side that also I work as freelancer for various web application and contiu
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ramialkaro)
 
 
-### Examples of web application:
+### Applications:
 
 * Posts Application [posts.ramialkaro.fi](https://posts.ramialkaro.fi)
 * Periodic Table. [https://elementarium.ramialkaro.fi](https://elementarium.ramialkaro.fi)

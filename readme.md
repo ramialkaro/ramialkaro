@@ -7,7 +7,8 @@ Along side that also I work as freelancer for various web application and contiu
 ### Social media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://fi.linkedin.com/in/rami-alkaro)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rami.alkaro@gmail.com)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ramialkaro.fi)
+[![Website](https://img.shields.io/badge/portfolio-black?style=for-the-badge&logoColor=white)](https://ramialkaro.fi)
+[![Consulting](https://img.shields.io/badge/consulting-black?style=for-the-badge&logoColor=white)](https://ramialkaro.fi)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ramialkaro)
 
 

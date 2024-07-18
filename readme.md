@@ -1,6 +1,6 @@
 ## Welcone to my github account.
 
-I specialize in web development and currently serve as a full-time software engineer at [Visma Solution](https://vismasolutions.fi/). My expertise in crafting bespoke web solutions coupled with my professional experience make me the perfect choice for your next project.
+I specialize in web development and currently serve as a full-time software engineer at [Visma Solutions](https://vismasolutions.fi/). My expertise in crafting bespoke web solutions coupled with my professional experience make me the perfect choice for your next project.
 
 Along side that also I work as freelancer for various web application and contiuous development of existing project. Such as [Laskutan](https://www.laskutan.com/) is belong to [SRG Oy](https://www.srgyhtiot.fi/) which is Light entrepreneurship invoice platform. Another example is [Corrsy](https://corrsy.com) which is eduction platform focus on middle east student. read more 
 

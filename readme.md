@@ -15,6 +15,7 @@ Along side that also I work as freelancer for various web application and contiu
 
 * Posts Application [https://posts.ramialkaro.fi](https://posts.ramialkaro.fi)
 * Sama Weather - Web weather Application [https://sama.ramialkaro.fi](https://sama.ramialkaro.fi)
+* Adhan - Web weather Application [https://adhan.ramialkaro.fi](https://adhan.ramialkaro.fi)
 * Periodic Table. [https://elementarium.ramialkaro.fi](https://elementarium.ramialkaro.fi)
 * Apple Clone Calculator. [https://apple-calculator-clone.ramialkaro.fi](https://apple-calculator-clone.ramialkaro.fi)
 * Weather Mobile App. [https://github.com/ramialkaro/aero-cast](https://github.com/ramialkaro/aero-cast)

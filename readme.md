@@ -13,6 +13,7 @@ Along side that also I work as freelancer for various web application and contiu
 
 ### Applications:
 
+* Kids or Pro Calculator Web Application [https://calculator2.ramialkaro.fi](https://calculator2.ramialkaro.fi)
 * Posts Application [https://posts.ramialkaro.fi](https://posts.ramialkaro.fi)
 * Sama Weather - Web weather Application [https://sama.ramialkaro.fi](https://sama.ramialkaro.fi)
 * Adhan - Web Adhan Application [https://adhan.ramialkaro.fi](https://adhan.ramialkaro.fi)

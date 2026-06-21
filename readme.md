@@ -13,7 +13,7 @@ Along side that also I work as freelancer for various web application and contiu
 
 ### Applications:
 
-* FocusLock - native macOS menu-bar Pomodoro app that enforces breaks with a full-screen overlay across all monitors (AppKit + SwiftUI, no dependencies). [https://github.com/ramialkaro/FocusLock](https://github.com/ramialkaro/FocusLock)
+* FocusLock - native macOS menu-bar Pomodoro app that enforces breaks with a full-screen overlay across all monitors. [https://github.com/ramialkaro/FocusLock](https://github.com/ramialkaro/FocusLock)
 * Kids or Pro Calculator Web Application [https://calculator2.ramialkaro.fi](https://calculator2.ramialkaro.fi)
 * Posts Application [https://posts.ramialkaro.fi](https://posts.ramialkaro.fi)
 * Sama Weather - Web weather Application [https://sama.ramialkaro.fi](https://sama.ramialkaro.fi)
